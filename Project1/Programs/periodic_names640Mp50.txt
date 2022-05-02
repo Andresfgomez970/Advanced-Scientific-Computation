@@ -1,0 +1,7 @@
+Periodic_data/EmvsTn_steps640000000L2n_points50.txt
+Periodic_data/EmvsTn_steps640000000L4n_points50.txt
+Periodic_data/EmvsTn_steps640000000L6n_points50.txt
+Periodic_data/EmvsTn_steps640000000L8n_points50.txt
+Periodic_data/EmvsTn_steps640000000L16n_points50.txt
+Periodic_data/EmvsTn_steps640000000L32n_points50.txt
+Periodic_data/EmvsTn_steps640000000L64n_points50.txt

@@ -1,0 +1,17 @@
+The principal programs for the parallelization of the VEGAS algorithm are in the followin shortly explain.
+
+1. serial_vegas.py
+
+This is a serial version of vegas which was constructed to characterize the process that can be characterized, as well as to study how the program run wit different sizes will behave.
+
+2. parallel_vegas.py
+
+This algorithm constains the class mentioned in the article in which the VEGAS algorithm was optimized and parallelized, it was used to test how the algorithm behaved under synchrnous and asynchrnous work, as well as used with one_dim_test.py to illustrate to measure the scability of the program.
+
+3. one_dim_test.py and mean_times.py
+
+Designed to create the time measurements nesesary to measure the bottlenecks time as well as the improvement made.
+
+4. tvsN.py
+
+Used to plot taken by the algorithm to integrate with N_sample points as the number of processors are increase proportionally, a bootstraping methodology is used for the estimations of the run times.
